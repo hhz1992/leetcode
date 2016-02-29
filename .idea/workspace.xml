@@ -1,7 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0af36ed5-8079-45bc-b812-3e0971d7d610" name="Default" comment="" />
+    <list default="true" id="0af36ed5-8079-45bc-b812-3e0971d7d610" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/array/No280_WiggleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtracking/No320_GeneralizedAbbreviation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binarysearch/No162_FindPeakElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design/No251_Flatten2DVector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/No264_UglyNumberII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/No279_PerfectSquares.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/No313_SuperUglyNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/greedy/No330_PatchingArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/search/No279_PerfectSquares.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Whitepages/Whitepages.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Whitepages/Whitepages.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/Whitepages/test.class" afterPath="$PROJECT_DIR$/out/production/leetcode/Whitepages/test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/CNode.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/CNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Container.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Container.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/LongestPalindromicSubstring.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/LongestPalindromicSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/MergeTwoSortedLists.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/MergeTwoSortedLists.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/MinMaxPath.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/MinMaxPath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Overlap.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Overlap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Point.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Search2DMatrix.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/Search2DMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/SubTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/SubTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/TwoSum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/TwoSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/ValidParentheses.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/ValidParentheses.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/WindowsMinimum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/WindowsMinimum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/WindowsSum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/WindowsSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/mergeLinkedList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/mergeLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/optimalWeights.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/optimalWeights.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/amazonOA/reverseSecondHalfList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/amazonOA/reverseSecondHalfList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No118_PascalsTriangle.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No118_PascalsTriangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No119_PascalsTriangleII.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No119_PascalsTriangleII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No11_ContainerWithMostWater.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No11_ContainerWithMostWater.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No15_3Sum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No15_3Sum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No163_MissingRanges.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No163_MissingRanges.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No169_MajorityElement.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No169_MajorityElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No16_3SumClosest.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No16_3SumClosest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No189_RotateArray.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No189_RotateArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No209_MinimumSizeSubarraySum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No209_MinimumSizeSubarraySum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No217_ContainsDuplicate.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No217_ContainsDuplicate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No219_ContainsDuplicateII.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No219_ContainsDuplicateII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No228_SummaryRanges.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No228_SummaryRanges.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No243_ShortestWordDistance.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No243_ShortestWordDistance.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No26_RemoveDuplicatesFromSortedArray.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No26_RemoveDuplicatesFromSortedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No27_RemoveElement.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No27_RemoveElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No283_MoveZeroes.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No283_MoveZeroes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No289_GameofLife.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No289_GameofLife.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No2_AddTwoNumbers.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No2_AddTwoNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No3_LongestSubstringWithoutRepeatingCharacters.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No3_LongestSubstringWithoutRepeatingCharacters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No66_PlusOne.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No66_PlusOne.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/array/No88_MergeSortedArray.class" afterPath="$PROJECT_DIR$/out/production/leetcode/array/No88_MergeSortedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/backtracking/No22_GenerateParentheses.class" afterPath="$PROJECT_DIR$/out/production/leetcode/backtracking/No22_GenerateParentheses.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/backtracking/No294_FlipGameII.class" afterPath="$PROJECT_DIR$/out/production/leetcode/backtracking/No294_FlipGameII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No240_Searcha2DMatrixII.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No240_Searcha2DMatrixII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No278_FirstBadVersion.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No278_FirstBadVersion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No33_SearchiInRotatedSortedArray.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No33_SearchiInRotatedSortedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No34_SearchForARange.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No34_SearchForARange.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No35_SearchInsertPosition.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No35_SearchInsertPosition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No50_Pow.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No50_Pow.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No69_SqrtX.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No69_SqrtX.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No69_SqrtX2.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No69_SqrtX2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No74_SearchA2DMatrix.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No74_SearchA2DMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No81_RotatedSortedArrayII.class" afterPath="$PROJECT_DIR$/out/production/leetcode/binarysearch/No81_RotatedSortedArrayII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/bit/No190_ReverseBits.class" afterPath="$PROJECT_DIR$/out/production/leetcode/bit/No190_ReverseBits.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/bit/No191_Numberof1Bits.class" afterPath="$PROJECT_DIR$/out/production/leetcode/bit/No191_Numberof1Bits.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/dp/No198_HouseRobber.class" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/No198_HouseRobber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/dp/No276_PaintFence.class" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/No276_PaintFence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/dp/No303_RangeSumQueryImmutable.class" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/No303_RangeSumQueryImmutable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/dp/No70_ClimbingStairs.class" afterPath="$PROJECT_DIR$/out/production/leetcode/dp/No70_ClimbingStairs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No166_FractiontoRecurringDecimal.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No166_FractiontoRecurringDecimal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No170_TwoSumIIIDatastructuredesign.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No170_TwoSumIIIDatastructuredesign.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No1_TwoSum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No1_TwoSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No202_HappyNumber.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No202_HappyNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No204_CountPrimes.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No204_CountPrimes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No205_IsomorphicStrings.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No205_IsomorphicStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No242_ValidAnagram.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No242_ValidAnagram.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No246_StrobogrammaticNumber.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No246_StrobogrammaticNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No266_PalindromePermutation.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No266_PalindromePermutation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No288_UniqueWordAbbreviation.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No288_UniqueWordAbbreviation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No290_WordPattern.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No290_WordPattern.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No299_BullsandCows.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No299_BullsandCows.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No325_MaximumSizeSubarraySumEqualsk.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No325_MaximumSizeSubarraySumEqualsk.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/hashTable/No36_ValidSudoku.class" afterPath="$PROJECT_DIR$/out/production/leetcode/hashTable/No36_ValidSudoku.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/heap/No215_KthLargestElementinanArray.class" afterPath="$PROJECT_DIR$/out/production/leetcode/heap/No215_KthLargestElementinanArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No14_LongestCommonPrefix.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No14_LongestCommonPrefix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No150_EvaluateReversePolishNotation.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No150_EvaluateReversePolishNotation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No1_TwoSum$1.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No1_TwoSum$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No1_TwoSum$1Node.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No1_TwoSum$1Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No1_TwoSum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No1_TwoSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No2_MedianOfTwoSortedArrays.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No2_MedianOfTwoSortedArrays.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No2_MedianOfTwoSortedArrays2.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No2_MedianOfTwoSortedArrays2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No32_LongestValidParentheses.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No32_LongestValidParentheses.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/No8_StringtoInteger.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/No8_StringtoInteger.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/test.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode/test2.class" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode/test2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/ListNode.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No160_IntersectionofTwoLinkedLists.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No160_IntersectionofTwoLinkedLists.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No19_RemoveNthNodeFromEndofList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No19_RemoveNthNodeFromEndofList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No203_RemoveLinkedListElements.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No203_RemoveLinkedListElements.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No206_ReverseLinkedList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No206_ReverseLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No21_MergeTwoSortedLists.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No21_MergeTwoSortedLists.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No234_PalindromeLinkedList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No234_PalindromeLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No237_DeleteNodeinaLinkedList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No237_DeleteNodeinaLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No328_OddEvenLinkedList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No328_OddEvenLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No82_RemoveDuplicatesfromSortedListII.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No82_RemoveDuplicatesfromSortedListII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/linkedList/No83_RemoveDuplicatesfromSortedList.class" afterPath="$PROJECT_DIR$/out/production/leetcode/linkedList/No83_RemoveDuplicatesfromSortedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No168_ExcelSheetColumnTitle.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No168_ExcelSheetColumnTitle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No171_ExcelSheetColumnNumber.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No171_ExcelSheetColumnNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No172_FactorialTrailingZeroes.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No172_FactorialTrailingZeroes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No223_RectangleArea.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No223_RectangleArea.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No231_PowerofTwo.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No231_PowerofTwo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No258_AddDigits.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No258_AddDigits.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No263_UglyNumber.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No263_UglyNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No292_NimGame.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No292_NimGame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No326_PowerofThree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No326_PowerofThree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No7_ReverseInteger.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No7_ReverseInteger.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/math/No9_PalindromeNumber.class" afterPath="$PROJECT_DIR$/out/production/leetcode/math/No9_PalindromeNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/search/No200_NumberofIslands.class" afterPath="$PROJECT_DIR$/out/production/leetcode/search/No200_NumberofIslands.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/sort/Interval.class" afterPath="$PROJECT_DIR$/out/production/leetcode/sort/Interval.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/sort/No252_MeetingRooms$1.class" afterPath="$PROJECT_DIR$/out/production/leetcode/sort/No252_MeetingRooms$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/sort/No252_MeetingRooms.class" afterPath="$PROJECT_DIR$/out/production/leetcode/sort/No252_MeetingRooms.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/stack/No155_MinStack$Element.class" afterPath="$PROJECT_DIR$/out/production/leetcode/stack/No155_MinStack$Element.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/stack/No155_MinStack.class" afterPath="$PROJECT_DIR$/out/production/leetcode/stack/No155_MinStack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/stack/No225_ImplementStackusingQueues.class" afterPath="$PROJECT_DIR$/out/production/leetcode/stack/No225_ImplementStackusingQueues.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/stack/No232_ImplementQueueusingStacks.class" afterPath="$PROJECT_DIR$/out/production/leetcode/stack/No232_ImplementQueueusingStacks.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No125_ValidPalindrome.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No125_ValidPalindrome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No12_IntegertoRoman.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No12_IntegertoRoman.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No13_RomanToInteger.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No13_RomanToInteger.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No14_LongestCommonPrefixNew.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No14_LongestCommonPrefixNew.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No157_ReadNCharactersGivenRead4.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No157_ReadNCharactersGivenRead4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No165_CompareVersionNumbers.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No165_CompareVersionNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No17_LetterCombinationsofaPhoneNumber.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No17_LetterCombinationsofaPhoneNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No20_ValidParentheses.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No20_ValidParentheses.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No249_GroupShiftedStrings.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No249_GroupShiftedStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No271_EncodeandDecodeStrings.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No271_EncodeandDecodeStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No28_ImplementStrStr.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No28_ImplementStrStr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No293_FlipGame.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No293_FlipGame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No316_RemoveDuplicateLetters.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No316_RemoveDuplicateLetters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No38_CountAndSay.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No38_CountAndSay.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No58_LengthOfLastWord.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No58_LengthOfLastWord.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No5_LongestPalindromicSubstring.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No5_LongestPalindromicSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No67_AddBinary.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No67_AddBinary.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/No6_ZigZagConversion.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/No6_ZigZagConversion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/Test$TreeNode.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/Test$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/string/Test.class" afterPath="$PROJECT_DIR$/out/production/leetcode/string/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/test/Power.class" afterPath="$PROJECT_DIR$/out/production/leetcode/test/Power.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No100_SameTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No100_SameTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No101_SymmetricTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No101_SymmetricTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No102_BinaryTreeLevelOrderTraversal.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No102_BinaryTreeLevelOrderTraversal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No104_MaximumDepthofBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No104_MaximumDepthofBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No107_BinaryTreeLevelOrderTraversalII.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No107_BinaryTreeLevelOrderTraversalII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No110_BalancedBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No110_BalancedBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No111_MinimumDepthofBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No111_MinimumDepthofBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No112_PathSum.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No112_PathSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No226_InvertBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No226_InvertBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No235_LowestCommonAncestorofaBinarySearchTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No235_LowestCommonAncestorofaBinarySearchTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No257_BinaryTreePaths.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No257_BinaryTreePaths.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No270_ClosestBinarySearchTreeValue.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No270_ClosestBinarySearchTreeValue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No297_SerializeandDeserializeBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No297_SerializeandDeserializeBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/No98_ValidateBinarySearchTree.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/No98_ValidateBinarySearchTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode/tree/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/array/No15_3Sum.java" afterPath="$PROJECT_DIR$/src/array/No15_3Sum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tree/No297_SerializeandDeserializeBinaryTree.java" afterPath="$PROJECT_DIR$/src/tree/No297_SerializeandDeserializeBinaryTree.java" />
+    </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,103 +194,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="No170_TwoSumIIIDatastructuredesign.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hashTable/No170_TwoSumIIIDatastructuredesign.java">
+      <file leaf-file-name="No162_FindPeakElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binarysearch/No162_FindPeakElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="62" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Usage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ahelp/Usage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No125_ValidPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/No125_ValidPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No215_KthLargestElementinanArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/heap/No215_KthLargestElementinanArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.95840263">
-              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
               <folding>
-                <element signature="e#527#536#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Power.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Power.java">
+      <file leaf-file-name="No200_NumberofIslands.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/search/No200_NumberofIslands.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No217_ContainsDuplicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/No217_ContainsDuplicate.java">
+      <file leaf-file-name="No279_PerfectSquares.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/search/No279_PerfectSquares.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#290#299#0" expanded="true" />
+                <element signature="e#456#465#0" expanded="true" />
+                <element signature="e#511#520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No279_PerfectSquares.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dp/No279_PerfectSquares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No219_ContainsDuplicateII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/No219_ContainsDuplicateII.java">
+      <file leaf-file-name="No263_UglyNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/No263_UglyNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No3_LongestSubstringWithoutRepeatingCharacters.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/No3_LongestSubstringWithoutRepeatingCharacters.java">
+      <file leaf-file-name="No264_UglyNumberII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dp/No264_UglyNumberII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No1_TwoSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/No1_TwoSum.java">
+      <file leaf-file-name="No330_PatchingArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/greedy/No330_PatchingArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+              <caret line="31" column="220" selection-start-line="31" selection-start-column="220" selection-end-line="31" selection-end-column="220" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No280_WiggleSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/No280_WiggleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16232465">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No313_SuperUglyNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dp/No313_SuperUglyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collection.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -138,9 +308,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -150,18 +324,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dp/No276_PaintFence.java" />
-        <option value="$PROJECT_DIR$/src/math/No292_NimGame.java" />
-        <option value="$PROJECT_DIR$/src/dp/No303_RangeSumQueryImmutable.java" />
-        <option value="$PROJECT_DIR$/src/hashTable/No288_UniqueWordAbbreviation.java" />
-        <option value="$PROJECT_DIR$/src/hashTable/No1_TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/hashTable/No170_TwoSumIIIDatastructuredesign.java" />
-        <option value="$PROJECT_DIR$/src/array/No11_ContainerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/array/No15_3Sum.java" />
-        <option value="$PROJECT_DIR$/src/binarysearch/No50_Pow.java" />
-        <option value="$PROJECT_DIR$/src/array/No2_AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/array/No3_LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/leetcode/test.java" />
         <option value="$PROJECT_DIR$/src/string/No14_LongestCommonPrefixNew.java" />
         <option value="$PROJECT_DIR$/src/string/No12_IntegertoRoman.java" />
@@ -193,7 +355,6 @@
         <option value="$PROJECT_DIR$/src/hashTable/No325_MaximumSizeSubarraySumEqualsk.java" />
         <option value="$PROJECT_DIR$/src/array/No209_MinimumSizeSubarraySum.java" />
         <option value="$PROJECT_DIR$/src/array/No163_MissingRanges.java" />
-        <option value="$PROJECT_DIR$/src/tree/No297_SerializeandDeserializeBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/tree/No98_ValidateBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/backtracking/No294_FlipGameII.java" />
         <option value="$PROJECT_DIR$/src/array/No289_GameofLife.java" />
@@ -201,6 +362,19 @@
         <option value="$PROJECT_DIR$/src/string/No43_MultiplyStrings.java" />
         <option value="$PROJECT_DIR$/src/string/Test.java" />
         <option value="$PROJECT_DIR$/src/Ahelp/Usage.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/No19_RemoveNthNodeFromEndofList.java" />
+        <option value="$PROJECT_DIR$/src/backtracking/No320_GeneralizedAbbreviation.java" />
+        <option value="$PROJECT_DIR$/src/tree/No297_SerializeandDeserializeBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/array/No15_3Sum.java" />
+        <option value="$PROJECT_DIR$/src/design/No251_Flatten2DVector.java" />
+        <option value="$PROJECT_DIR$/src/binarysearch/No162_FindPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/search/No279_PerfectSquares.java" />
+        <option value="$PROJECT_DIR$/src/dp/No279_PerfectSquares.java" />
+        <option value="$PROJECT_DIR$/src/dp/No264_UglyNumberII.kt" />
+        <option value="$PROJECT_DIR$/src/dp/No264_UglyNumberII.java" />
+        <option value="$PROJECT_DIR$/src/dp/No313_SuperUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/greedy/No330_PatchingArray.java" />
+        <option value="$PROJECT_DIR$/src/array/No280_WiggleSort.java" />
       </list>
     </option>
   </component>
@@ -215,10 +389,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="504" />
-    <option name="y" value="258" />
-    <option name="width" value="1918" />
-    <option name="height" value="894" />
+    <option name="x" value="30" />
+    <option name="y" value="38" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -293,61 +467,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="heap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ahelp" />
+              <option name="myItemId" value="array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -357,99 +477,102 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.No316_RemoveDuplicateLetters">
-    <configuration default="false" name="No209_MinimumSizeSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.No280_WiggleSort">
+    <configuration default="false" name="No251_Flatten2DVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="design.No251_Flatten2DVector" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="No162_FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="binarysearch.No162_FindPeakElement" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="No279_PerfectSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="search.No279_PerfectSquares" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="No279_PerfectSquares (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="dp.No279_PerfectSquares" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="No280_WiggleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="array.No209_MinimumSizeSubarraySum" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="string.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="No297_SerializeandDeserializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.No297_SerializeandDeserializeBinaryTree" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="No289_GameofLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="array.No289_GameofLife" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="No316_RemoveDuplicateLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="string.No316_RemoveDuplicateLetters" />
+      <option name="MAIN_CLASS_NAME" value="array.No280_WiggleSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -642,6 +765,18 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -707,19 +842,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.No209_MinimumSizeSubarraySum" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.No297_SerializeandDeserializeBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.No289_GameofLife" />
-      <item index="4" class="java.lang.String" itemvalue="Application.No316_RemoveDuplicateLetters" />
+      <item index="0" class="java.lang.String" itemvalue="Application.No251_Flatten2DVector" />
+      <item index="1" class="java.lang.String" itemvalue="Application.No162_FindPeakElement" />
+      <item index="2" class="java.lang.String" itemvalue="Application.No279_PerfectSquares" />
+      <item index="3" class="java.lang.String" itemvalue="Application.No279_PerfectSquares (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.No280_WiggleSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.No316_RemoveDuplicateLetters" />
-        <item index="1" class="java.lang.String" itemvalue="Application.No289_GameofLife" />
-        <item index="2" class="java.lang.String" itemvalue="Application.No297_SerializeandDeserializeBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.No209_MinimumSizeSubarraySum" />
+        <item index="0" class="java.lang.String" itemvalue="Application.No280_WiggleSort" />
+        <item index="1" class="java.lang.String" itemvalue="Application.No279_PerfectSquares (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.No279_PerfectSquares" />
+        <item index="3" class="java.lang.String" itemvalue="Application.No162_FindPeakElement" />
+        <item index="4" class="java.lang.String" itemvalue="Application.No251_Flatten2DVector" />
       </list>
     </recent_temporary>
   </component>
@@ -746,32 +881,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="504" y="258" width="1918" height="894" extended-state="0" />
+    <frame x="30" y="38" width="1440" height="873" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271523" sideWeight="0.43991417" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14285715" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30198675" sideWeight="0.52575105" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985073" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22282024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23576158" sideWeight="0.47138768" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882166" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22246066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30198675" sideWeight="0.47424892" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32741934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23705722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11718236" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11718236" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08370536" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24363057" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -966,11 +1101,35 @@
           <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarysearch/No162_FindPeakElement.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/search/No279_PerfectSquares.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/No280_WiggleSort.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/No280_WiggleSort.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="82" />
+      <option name="time" value="89" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -987,91 +1146,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1资料/OA1_Code/Subtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1资料/OA1_Code/reverseSecondHalfList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1资料/OA1_Code/mergeTwoLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binarysearch/No240_Searcha2DMatrixII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1+oa2_coding/amazon_oa1/MyWindowSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1+oa2_coding/amazon_oa1/MyWindowMinimum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1+oa2_coding/amazon_oa1/MyMinMaxPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazonOA/MinMaxPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazonOA/Search2DMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazonOA/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazonOA/ValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazonOA/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/amazonOA/WindowsSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3">
@@ -1107,34 +1181,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1+oa2_coding/amazon_oa1/MyMergeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1+oa2_coding/amazon_oa1/MyOverlap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1+oa2_coding/amazon_oa1/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/amazon/Amazon_OA/oa1+oa2_coding/amazon_oa1/CNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.062418725">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/amazonOA/mergeLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1161,22 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1753554">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/search/No200_NumberofIslands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6445498">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtracking/No22_GenerateParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2890996">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1192,7 +1222,7 @@
         <state vertical-scroll-proportion="1.2654028">
           <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1234,34 +1264,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44067797">
-          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/No297_SerializeandDeserializeBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/No98_ValidateBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtracking/No294_FlipGameII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1276,9 +1282,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.78175896">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="e#346#365#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1286,7 +1289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31270358">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1294,7 +1296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="62" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1302,7 +1303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1310,7 +1310,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1330,26 +1332,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ahelp/Usage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Power.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1362,15 +1348,302 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/heap/No215_KthLargestElementinanArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95840263">
-          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.03950104">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ahelp/Usage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/No2_AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/No27_RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/No19_RemoveNthNodeFromEndofList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtracking/No294_FlipGameII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtracking/No22_GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtracking/No320_GeneralizedAbbreviation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding>
-            <element signature="e#527#536#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#263#271#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/No297_SerializeandDeserializeBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51458335">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/No15_3Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31666666">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#300#315#0" expanded="true" />
+            <element signature="e#675#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/No251_Flatten2DVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#239#254#0" expanded="true" />
+            <element signature="e#299#308#0" expanded="true" />
+            <element signature="e#391#400#0" expanded="true" />
+            <element signature="e#464#473#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarysearch/No162_FindPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search/No200_NumberofIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search/No279_PerfectSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#299#0" expanded="true" />
+            <element signature="e#456#465#0" expanded="true" />
+            <element signature="e#511#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/No279_PerfectSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/No263_UglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/No313_SuperUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/No264_UglyNumberII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy/No330_PatchingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="220" selection-start-line="31" selection-start-column="220" selection-end-line="31" selection-end-column="220" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/No280_WiggleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16232465">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

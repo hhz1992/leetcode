@@ -29,7 +29,7 @@ public class No297_SerializeandDeserializeBinaryTree {
     }
     // Decodes your encoded data to tree.
     public static TreeNode deserialize(String data) {
-        Deque<String> nodes = new LinkedList<>();
+        Deque<String> nodes = new LinkedList<String>();
         nodes.addAll(Arrays.asList(data.split(spliter)));
         return buildTree(nodes);
     }
